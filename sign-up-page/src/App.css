@@ -1,0 +1,7 @@
+.App{
+    height: 100vh;
+    background-image: url("./images/image5.jpg");
+    background-size: cover;
+    padding-top: 50px;
+    box-sizing: border-box;
+}

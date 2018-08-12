@@ -1,0 +1,113 @@
+.input-label {
+    display: block;
+  }
+
+.input-span{
+    position: absolute;
+    z-index: 1;
+    cursor: text;
+    pointer-events: none;
+    color: #999;
+    /* Input padding + input border */
+    padding: 10px 0px 0px 10px;
+    font-size: 11px;
+    /* Firefox does not respond well to different line heights. Use padding instead. */
+    /* line-height: 17px; */
+    /* This gives a little gap between the cursor and the label */
+    margin-left: 2px;
+}
+
+.input{
+    z-index: 0;
+    padding: 30px 0px 10px 10px;
+    width: 400px;
+    margin: 0;
+    font: inherit;
+    /* line-height: 17px; */
+  }
+  
+  .main-body-left-div {
+      background-color: rgba(252,249,249, 0.5);
+      float: left;
+      height: 100%;
+      padding-top: 80px;
+      padding-left: 40px;
+      padding-right: 70px;
+  }
+  
+  .main-body-left-div h1 {
+    font-size: 30px;
+  }
+  .welcome-paragraph{
+      font-size: 12px;
+      margin-bottom: 50px;
+      margin-top: 20px;
+      color: black;
+  }
+
+  .checkbox-div{
+      display: flex;
+      justify-content: space-between;
+      font-size: 11px;
+      align-content: center;
+      align-items: center;
+  }
+
+  .forgot-password-input{
+      text-decoration: none;
+      color: black;
+  }
+
+  .checkbox-div{
+      margin-top: 35px;
+      margin-bottom: 35px;
+  }
+
+  .checkbox-label {
+      color: black;
+  }
+
+  .button{
+      width: 100px;
+      height: 35px;
+      border-radius: 6px;
+      font-size: 11px;
+      border: none;
+  }
+  
+  .submit-input{
+      background-color: black;
+      color: white;
+  }
+
+  .signup-button{
+      margin-left: 10px;
+      background-color: #fcf9f9;
+      border: solid 1px #bab8b8;
+  }
+
+  .buttons-div{
+      margin-bottom: 60px;
+  }
+
+  .terms-div{
+      margin-bottom: 110px;
+  }
+  .terms-div p{
+      margin:0;
+      font-size: 10px;
+  }
+
+  .we-are-heading {
+    color:#bab8b8;
+  }
+  
+  .words-paragraph{
+    color: #bab8b8;
+  }
+
+  .terms-paragraph a{
+    text-decoration: none;
+    color: black;
+  }
+  

@@ -1,0 +1,76 @@
+.main-body-right-div {
+    background-image: url("../../images/justyn-warner-532067-unsplash.jpg");
+    background-size: cover;
+    float: left;
+    height: 100%;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 100px;
+    padding-bottom: 40px;
+}
+
+.navbar-list li {
+    display: inline;
+    margin: 20px;
+    font-size: 10px;
+}
+
+.navbar-list li a {
+    text-decoration: none;
+    color: white;
+}
+
+.right-body-buttons {
+   margin-left: 320px;
+   margin-top: 110px;
+}
+
+.right-body-buttons button {
+   height: 30px;
+   border-radius: 4px;
+   padding: 5px;
+   width: 70px;
+   font-size: 11px;
+}
+
+.button-previous {
+    margin-right: 12px;
+    background: transparent;
+    color: white;
+    border: solid 0.5px rgba(255,255,255,0.4);
+}
+
+.button-next {
+    background-color: rgba(255,255,255, 0.5);
+    border: none;
+    color: white;
+}
+
+.image-div {
+    margin-top: 120px;
+    margin-left: 80px; 
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 4px;
+    padding: 10px;
+    width: 280px;
+}
+
+.body-image {
+    opacity: 0.5;
+}
+
+.dots {
+    height: 10px;
+    width: 10px;
+    background-color: #bab8b8;
+    border-radius: 50%;
+}
+
+.rounded-rectangle {
+    margin: 3px;
+    height: 5px;
+    width: 20px;
+    background-color: #959699;
+    border-radius: 4px;
+    margin-left: 260px;
+}
