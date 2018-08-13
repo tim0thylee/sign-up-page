@@ -22,7 +22,6 @@ const Mainbodyleftdiv = () => {
                 <div className="checkbox-div">
                     <label className="checkbox-label">
                         <input className="checkbox-input" type="checkbox"/>Remember Me
-                        <span className="checkbox-span"></span>
                     </label>
                     <a className="forgot-password-input" href="forgotpassword.com">Forgot password </a>
                 </div>

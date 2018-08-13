@@ -1,0 +1,15 @@
+.floating-button {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: white;
+    position: fixed;
+    left: 44.65%;
+    bottom: 30%;
+    text-align:center;
+}
+.fa-play {
+    color: black;
+    margin-top: 25px;
+    font-size: 10px;
+}

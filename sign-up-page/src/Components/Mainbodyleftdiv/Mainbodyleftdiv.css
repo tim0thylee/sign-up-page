@@ -51,6 +51,8 @@
       font-size: 11px;
       align-content: center;
       align-items: center;
+      margin-top: 35px;
+      margin-bottom: 35px;
   }
 
   .forgot-password-input{
@@ -58,13 +60,22 @@
       color: black;
   }
 
-  .checkbox-div{
-      margin-top: 35px;
-      margin-bottom: 35px;
-  }
 
   .checkbox-label {
       color: black;
+      display: block;
+      padding-left: 15px;
+      text-indent: -15px;
+  }
+
+  .checkbox-input{
+      vertical-align: bottom;
+      position: relative;
+      width: 13px;
+      height: 13px;
+      padding: 0;
+      margin:0;
+      top: 1px;
   }
 
   .button{
